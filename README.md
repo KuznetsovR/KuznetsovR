@@ -2,7 +2,7 @@
 Welcome to my page!
 <br />
 I'm Ruslan, frontend developer specialized in building single page applications (mostly Angular, but I'm also familiar with React)
-### Few facts about me 😉
+### A few facts about me 😉
 - 👨‍💻 Have experience in building 3D websites with Threejs and WebGL
 - ⭐ Working in Exadel company as an Associate Software Engineer
 - 💡 Mastering Angular and React
